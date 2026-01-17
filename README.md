@@ -23,6 +23,10 @@ docker build -t docker-sandbox-visualizer .
 ```
 
 
+<img width="1478" height="744" alt="image" src="https://github.com/user-attachments/assets/55181662-c2c7-422a-b8d5-8ec1f635f15d" />
+
+
+
 ## 5. Run it!
 
 ```
